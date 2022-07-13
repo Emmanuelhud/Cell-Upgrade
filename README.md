@@ -10,14 +10,12 @@ HTML, CSS, JavaScript.
 We were required to build a 'Phone Contract Finder' application that had to be developed using HTML, CSS and JavaScript. It would allow users to enter preferences for the type of phone they would like (brand, monthly cost, minutes etc.) and, based on these preferences, the application would recommend suitable phones and plans (phone contracts).
 
 ### How to use:
-_1. Enter a brand_
-
-_2. Enter a minimum data allowance_
-
-_3. Enter a minimum number of talk minutes_
-_4. Enter a minimum text allowance_
-_5. Enter a minimum monthly cost_
-_6. Observe the plan(s) that match your preferences_
+_1. Enter a brand_ 
+_2. Enter a minimum data allowance_ 
+_3. Enter a minimum number of talk minutes_ 
+_4. Enter a minimum text allowance_ 
+_5. Enter a minimum monthly cost_ 
+_6. Observe the plan(s) that match your preferences_ 
 
 ### Contracts:
 Shown below are all the possible phone contracts.
