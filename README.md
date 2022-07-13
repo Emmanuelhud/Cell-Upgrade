@@ -11,7 +11,9 @@ We were required to build a 'Phone Contract Finder' application that had to be d
 
 ### How to use:
 _1. Enter a brand_
+
 _2. Enter a minimum data allowance_
+
 _3. Enter a minimum number of talk minutes_
 _4. Enter a minimum text allowance_
 _5. Enter a minimum monthly cost_
